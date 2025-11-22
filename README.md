@@ -204,6 +204,7 @@ Automated narrative storytelling
 
 ## 🤝 Connect
 Author: Shreerajsingh Chouhan
+
 Linkedin: Shreerajsingh.C. Chouhan
 
 If you'd like to see the dashboard or discuss the workflow, feel free to reach out!
